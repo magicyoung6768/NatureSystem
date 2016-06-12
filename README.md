@@ -1,4 +1,4 @@
-NatureSystem - similar natural sytems code
+NatureSystem - Simulating natural sytems code
 ================
 
 ### With nature, I will never be alone 
