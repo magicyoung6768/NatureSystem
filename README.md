@@ -2,7 +2,7 @@ NatureSystem - Simulating natural sytems code
 ================
 
 ### With nature, I will never be alone 
-
+个人学习 processing，并做一次andoird 版本的尝试。
 
 ## License - 许可证
     Licensed under the Apache License, Version 2.0 (the "License");
